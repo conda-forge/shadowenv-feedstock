@@ -1,5 +1,5 @@
 context:
-  version: "3.5.1"
+  version: "3.5.2"
 
 package:
   name: shadowenv
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Shopify/shadowenv/archive/${{ version }}.tar.gz
-  sha256: ff81d1baa7567b7570bb1e842d6a248f2f7c42c56bfa5f4c76beeb450395017c
+  sha256: a8d56444adf92264b59a37e312acdc194219ce1ab05b5277b5862bcb62f50be1
 
 build:
   number: 0
